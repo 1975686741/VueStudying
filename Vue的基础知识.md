@@ -3,11 +3,11 @@
      - “data”：需要定义的数据模型
      - “methods”：需要声明的函数
      - “watch”：添加监听 
-     - ` <body>
+     - `<body>
     <div id="app">
     <div>{ {message} }</div>
     </div>
-<script>
+     <script>
     var vue = new Vue({
         "el":"#app",
         "data":{
@@ -23,6 +23,6 @@
                //具体的业务操作
             }
         }
-    });
-</script>
-</body> `
+      });
+     </script>
+     </body>`
