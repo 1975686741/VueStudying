@@ -1,0 +1,1 @@
+简述：ESLint是为了检查JavaScript的代码，并且可以插件来支持VUE项目的代码检查。
